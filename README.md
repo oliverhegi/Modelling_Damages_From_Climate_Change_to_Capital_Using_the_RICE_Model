@@ -1,4 +1,4 @@
-# Modelling_Damages_From_Climate_Change_to_Capital_Using_the_RICE_Model
+# Modelling Damages From Climate Change to Capital Using the RICE Model
 
 This project was completed for a final paper for the course ECONG6449 Economic Theory of Climate Change.
 
